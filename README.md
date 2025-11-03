@@ -15,10 +15,6 @@ TanStack Query – Data fetching, caching, and synchronization
 
 Tailwind CSS – Utility-first CSS styling
 
-Axios – For API requests
-
 TypeScript – Static typing and developer experience
 
-React Icons – Icons for visual polish
-
-ESLint + Prettier – Code linting and formatting
+ESLint – Code linting
